@@ -1,0 +1,14 @@
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/bin/Debug/net8.0/reseni
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/bin/Debug/net8.0/reseni.deps.json
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/bin/Debug/net8.0/reseni.runtimeconfig.json
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/bin/Debug/net8.0/reseni.dll
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/bin/Debug/net8.0/reseni.pdb
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/obj/Debug/net8.0/reseni.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/obj/Debug/net8.0/reseni.AssemblyInfoInputs.cache
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/obj/Debug/net8.0/reseni.AssemblyInfo.cs
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/obj/Debug/net8.0/reseni.csproj.CoreCompileInputs.cache
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/obj/Debug/net8.0/reseni.dll
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/obj/Debug/net8.0/refint/reseni.dll
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/obj/Debug/net8.0/reseni.pdb
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/obj/Debug/net8.0/reseni.genruntimeconfig.cache
+/mnt/d/hdd/projects/edhouse/ukol/intern-2025-tigonsk/reseni/obj/Debug/net8.0/ref/reseni.dll
